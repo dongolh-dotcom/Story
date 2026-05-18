@@ -12,7 +12,7 @@ export default function Navbar({ onNewStory }: NavbarProps) {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="w-9 h-9 bg-gradient-to-br from-purple-500 to-pink-500 rounded-2xl flex items-center justify-center text-white font-bold text-xl">
-            📖
+            馃摉
           </div>
           <h1 className="text-2xl font-bold tracking-tight">StoryCircle</h1>
         </div>
@@ -33,7 +33,7 @@ export default function Navbar({ onNewStory }: NavbarProps) {
             <span>New Story</span>
           </button>
           <div className="w-9 h-9 bg-zinc-700 rounded-full flex items-center justify-center cursor-pointer hover:bg-zinc-600 transition">
-            👤
+            馃懁
           </div>
         </div>
       </div>
